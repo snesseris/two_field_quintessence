@@ -1,15 +1,13 @@
 # DESI constraints on two-field quintessence with exponential potentials
 
-This is the github repository for the paper arXiv: 2511.xxxxx, by 
+This is the github repository for the paper arXiv: [2510.xxxxx](https://arxiv.org/abs/2510.xxxx), by 
 
-George Alestas, Marienza Caldarola, Indira Ocampo, and Savvas Nesseris
-
-Instituto de Física Teórica (IFT) UAM-CSIC, C/ Nicolás Cabrera 13-15,
+## [George Alestas](https://github.com/GeorgeAlestas), [Marienza Caldarola](https://github.com/mcaldarola), [Indira Ocampo](https://github.com/IndiraOcampo), and [Savvas Nesseris](https://github.com/snesseris/)  
+Instituto de Física Teórica (IFT) UAM-CSIC, Madrid
 
 and 
 
-Shinji Tsujikawa
+## [Shinji Tsujikawa](https://tsujikawa.w.waseda.jp/Tsujikawae.html) 
+Department of Physics, Waseda University, Japan
 
-Department of Physics, Waseda University, 3-4-1 Okubo, Shinjuku, Tokyo 169-8555, Japan
-
-The numerical codes used in our analysis, along with the MCMC chains, will be made publicly available after publication of the paper.
+### The numerical codes used in our analysis, along with the MCMC chains, will be made publicly available after publication of the paper.
